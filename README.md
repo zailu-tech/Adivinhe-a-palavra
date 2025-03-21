@@ -20,14 +20,6 @@ palavra, ela será revelada na posição correta.
 3. Se a letra não estiver na palavra, o número de tentativas restantes será decrementado.
 4. O jogo termina quando o jogador adivinha todas as letras da palavra ou fica sem tentativas.
 
-## 🚀Como Executar
-
-1. Clone este repositório:
-   ```bash
-  https://github.com/zailu-tech/Adivinhe-a-palavra.git
-
-   
-
 ## 💬Contribuição
 
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou correções de bugs!
