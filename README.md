@@ -24,7 +24,7 @@ palavra, ela será revelada na posição correta.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/zailu-tech/JogoDaForca.git
+  https://github.com/zailu-tech/Adivinhe-a-palavra.git
 
    
 
