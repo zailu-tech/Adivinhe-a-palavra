@@ -16,10 +16,6 @@ Este é um jogo simples de forca, onde o jogador tenta adivinhar a palavra secre
 3. Se a letra não estiver na palavra, o número de tentativas restantes será decrementado.
 4. O jogo termina quando o jogador adivinha todas as letras da palavra ou fica sem tentativas.
 
-palavra, ela será revelada na posição correta.
-3. Se a letra não estiver na palavra, o número de tentativas restantes será decrementado.
-4. O jogo termina quando o jogador adivinha todas as letras da palavra ou fica sem tentativas.
-
 ## 💬Contribuição
 
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou correções de bugs!
